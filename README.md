@@ -1,1 +1,1 @@
-# react-demo
+# Basic React functionality
